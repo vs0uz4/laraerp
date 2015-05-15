@@ -26,7 +26,7 @@ return [
 	|
 	*/
 
-	'url' => 'http://laraerp.herokuapp.com/',
+	'url' => 'http://laraerp.herokuapp.com',
 
 	/*
 	|--------------------------------------------------------------------------
