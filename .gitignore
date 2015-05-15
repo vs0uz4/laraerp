@@ -1,5 +1,4 @@
 /vendor
-.env
 rotas.txt
 database/
 .idea/
